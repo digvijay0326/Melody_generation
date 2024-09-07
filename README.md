@@ -1,1 +1,1 @@
-Melody Generation using LSTM-RNN.
+Melody Generation using LSTM-RNN
